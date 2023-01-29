@@ -7,7 +7,7 @@ const DUMMY_MEALS = [
 		id: "m1",
 		name: "Samosa",
 		description:
-			"fried pastry with a savoury filling, including ingredients such as spiced potatoes, onions, and peas.",
+			"Fried pastry with a savoury filling, including ingredients such as spiced potatoes, onions, and peas.",
 		price: 29.99,
 	},
 	{
@@ -20,14 +20,14 @@ const DUMMY_MEALS = [
 		id: "m3",
 		name: "Rasmalai",
 		description:
-			"a Classic Indian dessert consisting of juicy cheese discs served with thickened milk.",
+			"A Classic Indian dessert consisting of juicy cheese discs served with thickened milk.",
 		price: 49.99,
 	},
 	{
 		id: "m4",
 		name: "Dosa",
 		description:
-			"a thin pancake in South Indian cuisine made from a fermented batter of ground black lentils and rice.",
+			"A thin pancake from South Indian cuisine made from a fermented batter of ground black lentils and rice.",
 		price: 99.99,
 	},
 ];

@@ -1,15 +1,19 @@
 # About Project App
 
+ReactMeals is a food ordering app where we have meals and a basic cart system.
+
 ## Live App link
 
 <a href="https://PSoni2000.github.io/food-order-app"
-target="_blank" style='font-size:1.2rem; font-weight:bold;'>Food Order App</a>
+target="_blank" style='font-size:1.2rem; font-weight:bold;'>ReactMeals - Food Order App</a>
 
 ## Language / Library Used
 
 1. React JS
 
 ## Future Plans
+
+1. Include local storage so store cart items.
 
 # NOTES
 
