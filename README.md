@@ -36,4 +36,16 @@ and thats something we need to insure that both these function do receive
 </p>
 
 </li>
+<li>
+
+**Using Env Variables in React**
+
+<p>
+
+1. Create .env file in root directory
+2. add env variable in it `REACT_APP_Env_Var=abc`
+3. use it in application `console.log(process.env.REACT_APP_Env_Var)`
+</p>
+
+</li>
 </ol>
